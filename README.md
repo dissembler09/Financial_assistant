@@ -50,6 +50,20 @@
 <details>
 <summary>Нажмите, чтобы развернуть</summary>
 
-![Screenshot 1](images/inst1.jpg)
+![Screenshot 1](screens/v1.png)
+![Screenshot 2](screens/v2.png)
+![Screenshot 3](screens/v3.png)
+![Screenshot 4](screens/v4.png)
+![Screenshot 5](screens/v5.png)
+![Screenshot 6](screens/v6.jpeg)
+![Screenshot 7](screens/v7.jpeg)
+![Screenshot 8](screens/v8.jpeg)
+![Screenshot 9](screens/v9.jpeg)
+![Screenshot 10](screens/v10.jpeg)
+![Screenshot 11](screens/v11.jpeg)
+![Screenshot 12](screens/v12.png)
+![Screenshot 13](screens/v13.png)
+![Screenshot 14](screens/v14.png)
+![Screenshot 15](screens/v15.jpg)
 
 </details>
