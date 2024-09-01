@@ -95,9 +95,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 
-#INSERT YOUR OWN BOT TOKEN
-TOKEN = ''
-
+with open('mytoken.txt', 'r') as file:
+    TOKEN = file.readline().strip()
 
 
 
