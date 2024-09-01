@@ -7,8 +7,5 @@ dateparser
 python-dateutil
 nest-asyncio
 python-telegram-bot==20.3
-warnings
 statsmodels
-sklearn
-PIL
-datetime
+scikit-learn
