@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+numpy
+Pillow
+dateparser
+python-dateutil
+nest-asyncio
+python-telegram-bot==20.3
